@@ -1,0 +1,60 @@
+.movie-card{
+    margin: 10px 0;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    /* position: relative; */
+
+}
+body{
+    /* overflow: hidden; */
+    margin: 0;
+    padding: 0;
+}
+.movie-title{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}
+.genre{
+    font-size: 14px;
+    /* position: absolute; */
+    top: 10px;
+    right: 10px;
+
+}
+
+
+
+
+.home {
+    margin-top: 208px;
+    position: relative;
+    margin-top: 5px;
+}
+
+.sidebar {
+    width: 250px;
+    height: 150vh;
+    position:relative;
+}
+
+.content {
+    overflow: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.home .content .col-md-3 {
+    border: 2px solid white;
+}
+
+
+
+
+
+
+
+
+
+
