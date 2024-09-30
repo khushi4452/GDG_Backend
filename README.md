@@ -1,6 +1,6 @@
 # Movie Website
 
-This project is a full-stack Aniwatch  movie website that allows users to manage movie details. 
+- This project is a  Aniwatch  movie website that allows users to manage movie details. 
 
 ## Features
 
@@ -11,7 +11,7 @@ This project is a full-stack Aniwatch  movie website that allows users to manage
   - **Delete**: Remove movies from the database.
 
 
-## Technologies Used
+## Technologies Used :-
 
 ### Frontend:
 - **React.js**: For building dynamic user interfaces.
